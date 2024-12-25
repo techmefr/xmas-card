@@ -1,4 +1,4 @@
-@import url('https://fonts.bunny.net/css?family=nothing-you-could-do:400');
+@import url('https://fonts.googleapis.com/css2?family=Kalam&display=swap');
 
 *,
 ::before,
@@ -7,7 +7,7 @@
 }
 
 body {
-  font-family: "Nothing You Could Do", handwriting;
+  font-family: 'Kalam', cursive;
   background: radial-gradient(#005f8f, #001f3f, black);
   color: #4a4a4a;
   display: flex;
